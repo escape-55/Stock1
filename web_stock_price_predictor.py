@@ -311,5 +311,5 @@ def main():
             display_keras_predictions(ploting_data, future_df, actual_df_keras)
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
